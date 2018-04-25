@@ -1,6 +1,6 @@
 # vueguaguale
 
-> A Vue.js project
+> 一个Vue的刮刮乐组件
 
 ## Build Setup
 
