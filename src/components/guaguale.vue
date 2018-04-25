@@ -72,7 +72,9 @@ export default {
 			}
 			this.onmouseup = function(){
 				this.onmousemove = null;
-				this.onmouseup = null
+			}
+			this.onmouseleave = function(){
+				this.onmousemove = null;
 			}
 		}
   }
